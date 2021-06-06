@@ -6,7 +6,7 @@ namespace AppConsoleDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Teste da minha Solucao com o GitHub");
         }
     }
 }
